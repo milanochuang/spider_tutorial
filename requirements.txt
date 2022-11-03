@@ -1,4 +1,4 @@
-scrapy
+scrapy==2.7.0
 web-poet
 scrapy-poet
 spidermon
